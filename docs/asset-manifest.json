@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d2d8775a.chunk.css",
+    "main.js": "./static/js/main.c36d97ef.chunk.js",
+    "main.js.map": "./static/js/main.c36d97ef.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.c323c10a.js",
+    "runtime-main.js.map": "./static/js/runtime-main.c323c10a.js.map",
+    "static/js/2.7f93c444.chunk.js": "./static/js/2.7f93c444.chunk.js",
+    "static/js/2.7f93c444.chunk.js.map": "./static/js/2.7f93c444.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.d2d8775a.chunk.css.map": "./static/css/main.d2d8775a.chunk.css.map",
+    "static/js/2.7f93c444.chunk.js.LICENSE.txt": "./static/js/2.7f93c444.chunk.js.LICENSE.txt",
+    "static/media/agua.a4e2054a.svg": "./static/media/agua.a4e2054a.svg",
+    "static/media/fuego.234ed673.svg": "./static/media/fuego.234ed673.svg",
+    "static/media/Galery.css": "./static/media/lambo-izquierda.b41dbffa.jpg",
+    "static/media/lambo-nieve2.a996a122.jpg": "./static/media/lambo-nieve2.a996a122.jpg",
+    "static/media/lambo.3b4edce0.jpg": "./static/media/lambo.3b4edce0.jpg",
+    "static/media/lamboEnd.0486bbdf.png": "./static/media/lamboEnd.0486bbdf.png",
+    "static/media/lamboIcono.58326eb2.svg": "./static/media/lamboIcono.58326eb2.svg",
+    "static/media/lamboTech.2483467d.png": "./static/media/lamboTech.2483467d.png",
+    "static/media/rayo.5dd8be90.svg": "./static/media/rayo.5dd8be90.svg",
+    "static/media/speed.170caaa6.svg": "./static/media/speed.170caaa6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c323c10a.js",
+    "static/js/2.7f93c444.chunk.js",
+    "static/css/main.d2d8775a.chunk.css",
+    "static/js/main.c36d97ef.chunk.js"
+  ]
+}
