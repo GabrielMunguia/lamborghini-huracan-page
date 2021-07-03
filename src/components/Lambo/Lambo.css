@@ -1,0 +1,91 @@
+.lamboEnd{
+    -webkit-box-shadow: -1px -2px 27px 17px #000000; 
+box-shadow: -1px -2px 27px 17px #000000;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+    min-height: 50em;
+    overflow: hidden;
+    position: relative;
+    margin: 1em;
+    
+}
+.lamboEndImg {
+   
+    position: absolute;
+    z-index: -1;
+    padding: 3rem;
+    width: 100%;
+    filter:brightness(0.4);
+    height: 65em;
+  
+}
+.lamboEnd_data{
+    padding: 1em;
+    position: absolute;
+    color:white;
+    justify-content: space-around;
+    top:0;
+    display: flex;
+     width: 70%;
+    font-size: 2em;
+    z-index: 4;
+    margin-top: 2em;
+ 
+}
+.lamboEnd_data>div p span{
+
+    font-size: 4em;
+    margin-bottom: 0.3em;
+}
+.lamboEnd_data>div p{
+    font-size: 0.6em;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.lamboEnd_data_extra{
+    padding: 1em;
+    position: absolute;
+    color:rgba(109, 109, 109, 0.562);
+    justify-content: space-around;
+    top:0;
+    display: flex;
+     width: 70%;
+    font-size: 5em;
+    margin-top: 0.5em;
+  
+}
+
+@media only screen and (max-width: 1024px){
+    .lamboEnd_data>div p span{
+        font-size: 2em;
+        
+    }
+    
+    .lamboEnd_data_extra{
+        margin-top: 1em;
+        font-size: 3.4em;
+    }
+}
+
+@media only screen and (max-width: 700px){
+    .lamboEnd_data>div p span{
+        font-size: 1em;
+        
+    }
+    .lamboEnd_data_extra{
+        margin-top: 5.9em;
+        font-size: 1em;
+    }
+
+   
+}
+@media only screen and (max-width: 500px){
+    .lamboEnd_data>div p{
+        font-size: 0.5em;
+     
+    }
+    
+}

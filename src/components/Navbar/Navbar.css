@@ -1,0 +1,36 @@
+nav{
+
+    color:white;
+    width: 100%;   
+    display: flex;
+    z-index: 22;
+
+    justify-content: flex-end;
+}
+
+
+
+.navLista{
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.466);
+    padding-right: 30px;
+    width: 70%;
+}
+.navLista li{
+    margin-left: 2em;
+    font-size: 1.4rem;
+    padding: 10px;
+
+}
+.navLista li a{
+    text-decoration: none;
+    color:white;
+}
+
+@media only screen and (max-width: 1024px){
+.navLista li {
+    font-size: 1.1em;
+}
+}

@@ -1,0 +1,18 @@
+
+.specs{
+
+    position: relative;
+
+    margin-top: 2em;
+     width:100%
+     
+ }
+ .specs>div{
+   
+     display: flex;
+     justify-content:space-between;
+     font-size: 1.2em;
+     color: white;
+     padding: 10px;
+     border-bottom: 1px solid rgba(255, 255, 255, 0.267);
+ }

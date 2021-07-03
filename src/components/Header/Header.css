@@ -1,0 +1,95 @@
+header{
+
+ width: 100%;
+ min-height: 100vh;
+ 
+}
+
+header img{
+z-index: -1;
+    position: absolute;
+    top:0;
+    width: 100%;
+    height: 100vh;
+    
+}
+h1{
+
+    position: absolute;
+    font-size: 5em;
+    left: 1em;
+    top:4em;
+    opacity:25%;
+    color: white;
+}
+.texoHeader{
+    
+    color:white;
+    position: relative;
+    
+    display: block;
+    min-width: 30em;
+    left: 0;
+    top:50vh;
+    margin-left: 4em;
+
+
+}
+.texoHeader h2{
+    font-size: 6em;
+    margin-bottom: 0.7rem;
+}
+.texoHeader p{
+    font-size: 1.9em;
+    color: rgb(214, 214, 214);
+    
+}
+@media only screen and (max-width: 1024px){
+    h1{
+        font-size: 5em;
+    }
+    .texoHeader h2{
+        font-size: 4em;
+     
+    }
+    .texoHeader p{
+        font-size: 1.5em;
+      
+        
+    }
+
+}
+@media only screen and (max-width: 800px){
+    h1{
+        font-size: 3em;
+    }
+    .texoHeader h2{
+        font-size: 2em;
+     
+    }
+    .texoHeader p{
+        font-size: 1.5em;
+      
+        
+    }
+}
+
+@media only screen and (max-width: 500px){
+    .texoHeader h2{
+        font-size: 2em;
+        margin-bottom: 0.7rem;
+    }
+    .texoHeader p{
+        font-size: 10px;
+        
+    }
+   .texoHeader{
+    margin-left:1.2em;
+   }
+   header img{
+       width: 190%;
+       left: -50%;
+   }
+
+}
+
